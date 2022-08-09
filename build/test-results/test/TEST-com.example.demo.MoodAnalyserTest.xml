@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.demo.MoodAnalyserTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-08-09T16:03:55" hostname="811.local" time="0.016">
+  <properties/>
+  <testcase name="testMoodAnalysis()" classname="com.example.demo.MoodAnalyserTest" time="0.014"/>
+  <testcase name="HappyMoods()" classname="com.example.demo.MoodAnalyserTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
